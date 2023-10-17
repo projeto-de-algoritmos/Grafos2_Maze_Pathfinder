@@ -27,7 +27,7 @@ O projeto consiste em um programa que gera uma matriz onde os quadrantes da matr
 
 
 ## Uso 
-
+cd pyamaze/Dijkstra\ Algorithm/
 python3 dijkstraMaze.py
 
 ## Apresentação
