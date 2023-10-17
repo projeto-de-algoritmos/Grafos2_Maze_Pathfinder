@@ -24,6 +24,7 @@ O projeto consiste em um programa que gera uma matriz onde os quadrantes da matr
 python3 dijkstraMaze.py
 
 ## Apresentação
+O video da apresentação com a explicação do trabalho e sua execução se encontra no repositório.
 
 
 
