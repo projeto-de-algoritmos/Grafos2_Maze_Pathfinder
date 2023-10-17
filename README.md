@@ -15,6 +15,13 @@ Tema:
 ## Sobre 
 O projeto consiste em um programa que gera uma matriz onde os quadrantes da matriz possuem um valor numérico correspondente ao custo para chegar nessa casa. Dado um ponto inicial A e um ponto final B, o programa utiliza do algoritmo de Dijkstra para traçar o caminho com o menor custo possível entre A e B.
 
+## Screenshots
+
+![Matriz 1](./images/maze.png)
+
+![Matriz 2](./images/maze2.png)
+
+
 ## Instalação 
 **Linguagem**: Python<br>
 
